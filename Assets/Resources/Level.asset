@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a407c9f6d16f2446ae296f8fb3c2df1, type: 3}
+  m_Name: Level
+  m_EditorClassIdentifier: 
+  levelItems:
+  - id: 1
+    levelId: 1
+    progressId: 1
+    createTime: 0
+    zombieType: 1
+    bornPosition: 0
+  - id: 2
+    levelId: 1
+    progressId: 2
+    createTime: 2
+    zombieType: 1
+    bornPosition: 1
+  - id: 3
+    levelId: 1
+    progressId: 3
+    createTime: 4
+    zombieType: 2
+    bornPosition: 2
+  - id: 4
+    levelId: 1
+    progressId: 4
+    createTime: 8
+    zombieType: 2
+    bornPosition: 3
+  - id: 5
+    levelId: 1
+    progressId: 5
+    createTime: 10
+    zombieType: 3
+    bornPosition: 4
+  - id: 6
+    levelId: 2
+    progressId: 1
+    createTime: 0
+    zombieType: 1
+    bornPosition: 4
+  - id: 7
+    levelId: 2
+    progressId: 2
+    createTime: 3
+    zombieType: 1
+    bornPosition: 3
+  - id: 8
+    levelId: 2
+    progressId: 3
+    createTime: 6
+    zombieType: 2
+    bornPosition: 2
+  - id: 9
+    levelId: 2
+    progressId: 4
+    createTime: 9
+    zombieType: 2
+    bornPosition: 1
+  - id: 10
+    levelId: 2
+    progressId: 5
+    createTime: 12
+    zombieType: 3
+    bornPosition: 0
